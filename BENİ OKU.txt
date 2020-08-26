@@ -1,0 +1,1 @@
+Merhaba bu script Nice' s#0966 ve Elenzy#6206 'nin katkılarıyla yapılmıştır. SQL 'i kurmanız ve script'e start vermeniz yeterlidir. SQL'i kuramazsanız kendiniz manual bir şekilde kurabilirsiniz. Jobs kısmına vagos ballas ve gsf mesleklerini eklemeniz ve jobs_grades kısmına vagos, gsf ve ballas permlerini kurmanız gerekmektedir.
